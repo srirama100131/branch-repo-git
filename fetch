@@ -1,2 +1,2 @@
 The git fetch command is used to download branches, commits, files, and references from a remote repository into your local repository without automatically applying or merging them into your current working files.
-
+This process updates your local copy of the remote repository (known as "remote-tracking branches," e.g., origin/main), allowing you to view and review changes before deciding how to integrate them into your local workspace. 
